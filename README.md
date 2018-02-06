@@ -1,6 +1,6 @@
-# izomusic
+# izoNote
 
-> app curso de vue.js 
+> mini app vue.js
 
 ## Build Setup
 
